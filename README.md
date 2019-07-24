@@ -12,6 +12,6 @@ $ npm run serve
 ```
 # Api
 ```
-$ http://127.0.0.1:8080/douban/groupData
-$ http://127.0.0.1:8080/douban/homeData
+http://127.0.0.1:8080/douban/groupData
+http://127.0.0.1:8080/douban/homeData
 ```
