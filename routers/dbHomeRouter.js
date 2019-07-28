@@ -6,4 +6,5 @@ const controls = require('../controls/dbHomeControls')
 router.get('/homeData', controls.getHomeData)
 // 豆瓣groupData路由
 router.get('/groupData',controls.getGroupData)
+
 module.exports = router
